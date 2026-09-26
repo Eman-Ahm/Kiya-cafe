@@ -1,0 +1,7 @@
+/* App.css — minimal, no boilerplate */
+
+/* Page wrapper used across pages */
+.page-wrapper {
+  min-height: 100vh;
+  background-color: #f8f8f8;
+}
